@@ -1,0 +1,49 @@
+<VARIANT_MESH>
+	<SLOT name="head" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1d/def/def_beastmaster/def_beastmaster_head_02.wsmodel" />
+	</SLOT>
+	<SLOT name="legs" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\def\def_black_guard\legs\def_black_guard_01_legs_01.rigid_model_v2" />
+	
+	</SLOT>
+	<SLOT name="body" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\def\def_black_guard\body\def_black_guard_01_body_01.rigid_model_v2" >
+			<META_DATA>audio_armour_type:plate</META_DATA>			<META_DATA>audio_entity_type:wh2_def_elf_male_default</META_DATA></VARIANT_MESH>
+		
+	</SLOT>
+	<SLOT name="cape" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\def\def_black_guard\cape\def_black_guard_01_cape_01.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="weapon_1" attach_point="be_prop_0" >
+	
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1d/def/def_props/def_black_guard_halberd_2h_02.rigid_model_v2" >
+			<META_DATA>equipment</META_DATA>			<META_DATA>audio_melee_weapon_type:halberd</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="weapon_2" attach_point="be_prop_1" />
+	<SLOT name="shield" attach_point="be_prop_2" />
+	<SLOT name="weapon_3" attach_point="be_prop_3" />
+	<SLOT name="weapon_4" attach_point="be_prop_4" />
+	<SLOT name="weapon_5" attach_point="be_prop_5" />
+	<SLOT name="stump_neck" attach_point="spine_2" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1d/dlc02_blood_pack/dlc02_stump_neck_hu1d.rigid_model_v2" >
+			<META_DATA>equipment</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="stump_left_arm" attach_point="clav_left" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1d/dlc02_blood_pack/dlc02_stump_left_arm_hu1d.rigid_model_v2" >
+			<META_DATA>equipment</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="stump_right_arm" attach_point="clav_right" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1d/dlc02_blood_pack/dlc02_stump_right_arm_hu1d.rigid_model_v2" >
+			<META_DATA>equipment</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="stump_waist" attach_point="root" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1d/dlc02_blood_pack/dlc02_stump_waist_hu1d.rigid_model_v2" >
+			<META_DATA>equipment</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="stump_severed_head" attach_point="head" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1d/dlc02_blood_pack/dlc02_stump_head_hu1d.rigid_model_v2" >
+			<META_DATA>equipment</META_DATA></VARIANT_MESH>
+	</SLOT>
+
+
+</VARIANT_MESH>
