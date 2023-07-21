@@ -1,0 +1,3 @@
+key	melee	ranged_indirect	ranged_direct	fast	flanker	support	flying	high_value	gate_crusher	bomber	shock	use_skirmish	harasser	stalker
+#ai_usage_groups_tables;7;db/ai_usage_groups_tables/pierce_bettersieges														
+melee_flanker_gatecrusher	true	false	false	true	true	false	false	false	true	false	false	true	false	false

@@ -1,0 +1,32 @@
+key	battlefield_siege_vehicle	level	type	siege_effort_cost
+#battlefield_deployable_siege_items_tables;5;db/battlefield_deployable_siege_items_tables/pierce_bettersieges				
+brt_batteringram	brt_battering_ram	0	battering_rams	3
+brt_siege_tower	brt_siege_tower_15m	0	15m_siege _towers	5
+bst_batteringram	bst_battering_ram	0	battering_rams	3
+bst_siege_tower	bst_siege_tower_15m	0	15m_siege _towers	5
+chs_batteringram	chs_battering_ram	0	battering_rams	3
+chs_siege_tower	chs_siege_tower_15m	0	15m_siege _towers	5
+cst_batteringram	cst_battering_ram	0	battering_rams	3
+cst_siege_tower	cst_siege_tower_15m	0	15m_siege _towers	5
+def_battering_ram	def_battering_ram	0	battering_rams	3
+def_siege_tower	def_siege_tower_15m	0	15m_siege_towers	5
+dwf_batteringram	dwf_battering_ram	0	battering_rams	3
+dwf_siege_tower	dwf_siege_tower_15m	0	15m_siege _towers	5
+emp_batteringram	emp_battering_ram	0	battering_rams	3
+emp_siege_tower	emp_siege_tower_15m	0	15m_siege _towers	5
+grn_batteringram	grn_battering_ram	0	battering_rams	3
+grn_siege_tower	grn_siege_tower_15m	0	15m_siege _towers	5
+hef_battering_ram	hef_battering_ram	0	battering_rams	3
+hef_siege_tower	hef_siege_tower_15m	0	15m_siege _towers	5
+lzd_battering_ram	lzd_battering_ram	0	battering_rams	3
+lzd_siege_tower	lzd_siege_tower_15m	0	15m_siege _towers	5
+nor_batteringram	nor_battering_ram	0	battering_rams	3
+nor_siege_tower	nor_siege_tower_15m	0	15m_siege _towers	5
+skv_battering_ram	skv_battering_ram	0	battering_rams	3
+skv_siege_tower	skv_siege_tower_15m	0	15m_siege _towers	5
+tmb_battering_ram	tmb_battering_ram	0	battering_rams	3
+tmb_siege_tower	tmb_siege_tower_15m	0	15m_siege _towers	5
+vmp_batteringram	vmp_battering_ram	0	battering_rams	3
+vmp_siege_tower	vmp_siege_tower_15m	0	15m_siege _towers	5
+wef_batteringram	wef_battering_ram	0	battering_rams	3
+wef_siege_tower	wef_siege_tower_15m	0	15m_siege _towers	5

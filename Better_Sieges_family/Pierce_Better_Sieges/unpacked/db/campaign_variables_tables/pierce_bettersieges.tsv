@@ -1,0 +1,5 @@
+variable_key	value
+#campaign_variables_tables;0;db/campaign_variables_tables/pierce_bettersieges	
+siege_attrition_resistance_turns_base	3.0000
+autoresolver_battle_tower_base_kps	0.8000
+campaign_hitpoints_unit_besieged_attrition_min_strength_percent	0.1000

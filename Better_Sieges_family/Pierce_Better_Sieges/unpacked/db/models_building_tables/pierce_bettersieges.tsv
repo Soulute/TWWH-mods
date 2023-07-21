@@ -1,0 +1,3 @@
+key	display_path	logic_file_override	collision_file_override	logic_file	collision_file
+#models_building_tables;8;db/models_building_tables/pierce_bettersieges					
+skv_wall_straight_20_merlon_01	buildings/skv/walls			rigidmodels\buildings\skv_wall_straight_20_merlon_01\skv_wall_straight_20_merlon_01_tech.cs2.parsed	rigidmodels\buildings\vmp_wall_merlon01\vmp_wall_merlon01_tech.cs2.collision

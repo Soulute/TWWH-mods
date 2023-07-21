@@ -1,0 +1,68 @@
+key	category	model	audio_material	hit_points	gun_type	onscreen_name	ignition_threshold	radar_icon	visible_in_public_ted	fortwall_penetration_chance	collision_3d	destruct_thresholds	joiner	auxiliary	burn_rate	height_map_mesh	ground_type	can_burn	audio_count_as_urban
+#battlefield_buildings_tables;20;db/battlefield_buildings_tables/pierce_bettersieges																			
+brt_wall_gatehouse_60	gate	brt_wall_gatehouse_60	rock	25000		gate	100	gate.tga	false	0	true		false	false	1.0000	false	rock	false	false
+brt_wall_straight_20	fort_wall	brt_wall_straight_20	rock	20000		fort_wall	100	wall.tga	false	0	true		false	false	1.0000	false	rock	false	false
+brt_wall_tower	fort_tower	brt_wall_tower	rock	6500	wh_tower_brt_arrow	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+brt_wall_tower_01	fort_tower	brt_wall_tower	rock	7500	wh_tower_brt_arrow_improved	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+brt_wall_tower_02	fort_tower	brt_wall_tower	rock	8000	wh_tower_brt_blessed_stone	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+brt_wall_tower_03	fort_tower	brt_wall_tower	rock	8500	wh_tower_brt_carcass	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+def_wall_gatehouse_60	gate	def_wall_gatehouse_60	rock	25000		gate	100	gate.tga	false	0	true		false	false	1.0000	false	rock	false	false
+def_wall_straight_20	fort_wall	def_wall_straight_20	rock	20000		fort_wall	100	wall.tga	false	0	true		false	false	1.0000	false	rock	false	false
+def_wall_straight_20_blocked	fort_wall	def_wall_straight_20_blocked	rock	20000			100	wall.tga	false	0	true		false	false	1.0000	false	rock	false	true
+def_wall_tower	fort_tower	def_wall_tower	rock	6500	wh2_tower_def_bolt_1	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+def_wall_tower_01	fort_tower	def_wall_tower	rock	7500	wh2_tower_def_bolt_2	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+def_wall_tower_02	fort_tower	def_wall_tower	rock	8000	wh2_tower_def_magic_missile_1	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+def_wall_tower_03	fort_tower	def_wall_tower	rock	8500	wh2_tower_def_magic_missile_2	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+dwf_wall_gatehouse_60	gate	dwf_wall_gatehouse_60	rock	25000		gate	100	gate.tga	false	0	true		false	false	1.0000	false	rock	false	false
+dwf_wall_straight_20	fort_wall	dwf_wall_straight_20	rock	20000		fort_wall	100	wall.tga	false	0	true		false	false	1.0000	false	rock	false	false
+dwf_wall_straight_20_stairs	fort_wall	dwf_wall_straight_20_stairs	rock	20000			100		false	0	true		false	false	1.0000	false	rock	false	false
+dwf_wall_tower	fort_tower	dwf_wall_tower	rock	6500	wh_tower_dwf_bullet	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+dwf_wall_tower_01	fort_tower	dwf_wall_tower	rock	7500	wh_tower_dwf_bullet_improved	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+dwf_wall_tower_02	fort_tower	dwf_wall_tower	rock	8000	wh_tower_dwf_cannon_ball	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+dwf_wall_tower_03	fort_tower	dwf_wall_tower	rock	8500	wh_tower_dwf_fused_beer_keg	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+emp_wall_gatehouse_60	gate	emp_wall_gatehouse_60	rock	25000		gate	100	gate.tga	false	0	true		false	false	1.0000	false	rock	false	true
+emp_wall_straight_20	fort_wall	emp_wall_straight_20	rock	20000		fort_wall	100	wall.tga	false	0	true		false	false	1.0000	false	rock	false	true
+emp_wall_straight_20_tower_connector	fort_wall	emp_wall_straight_20_tower_connector	rock	20000			100		false	0	true		false	false	1.0000	false	rock	false	true
+emp_wall_tower	fort_tower	emp_wall_tower	rock	6500	wh_tower_emp_bullet	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	true
+emp_wall_tower_01	fort_tower	emp_wall_tower	rock	7500	wh_tower_emp_bullet_improved	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	true
+emp_wall_tower_02	fort_tower	emp_wall_tower	rock	8000	wh_tower_emp_cannon_ball	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	true
+emp_wall_tower_03	fort_tower	emp_wall_tower	rock	8500	wh_tower_emp_clockwork_bomb	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	true
+grn_wall_gatehouse_60	gate	grn_wall_gatehouse_60	rock	25000		gate	100	gate.tga	false	0	true		false	false	1.0000	false	rock	false	false
+grn_wall_straight_20	fort_wall	grn_wall_straight_20	rock	20000		fort_wall	100	wall.tga	false	0	true		false	false	1.0000	false	rock	false	false
+grn_wall_tower	fort_tower	grn_wall_tower	rock	6500	wh_tower_grn_arrow	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+grn_wall_tower_01	fort_tower	grn_wall_tower	rock	7500	wh_tower_grn_arrow_improved	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+grn_wall_tower_02	fort_tower	grn_wall_tower	rock	8000	wh_tower_grn_giant_dungball	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+grn_wall_tower_03	fort_tower	grn_wall_tower	rock	8500	wh_tower_grn_rock_idol	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+hef_wall_gatehouse_60	gate	hef_wall_gatehouse_60	rock	25000		gate	100	gate.tga	false	0	true		false	false	1.0000	false	rock	false	false
+hef_wall_straight_20	fort_wall	hef_wall_straight_20	rock	20000		fort_wall	100	wall.tga	false	0	true		false	false	1.0000	false	rock	false	false
+hef_wall_straight_20_blocked	fort_wall	hef_wall_straight_20_blocked	rock	20000			100	wall.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+hef_wall_tower	fort_tower	hef_wall_tower	rock	6500	wh2_tower_hef_bolt_1	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+hef_wall_tower_01	fort_tower	hef_wall_tower	rock	7500	wh2_tower_hef_bolt_2	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+hef_wall_tower_02	fort_tower	hef_wall_tower	rock	8000	wh2_tower_hef_magic_missile_1	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+hef_wall_tower_03	fort_tower	hef_wall_tower	rock	8500	wh2_tower_hef_magic_missile_2	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+lzd_wall_gatehouse_60	gate	lzd_wall_gatehouse_60	rock	25000		gate	100	gate.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+lzd_wall_straight_20	fort_wall	lzd_wall_straight_20	rock	20000		fort_wall	100	wall.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+lzd_wall_straight_20_blocked	fort_wall	lzd_wall_straight_20_blocked	rock	20000			100	wall.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+lzd_wall_tower	fort_tower	lzd_wall_tower	rock	6500	wh2_tower_lzd_bolt_1	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+lzd_wall_tower_01	fort_tower	lzd_wall_tower	rock	7500	wh2_tower_lzd_bolt_2	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+lzd_wall_tower_02	fort_tower	lzd_wall_tower	rock	8000	wh2_tower_lzd_magic_missile	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+lzd_wall_tower_03	fort_tower	lzd_wall_tower	rock	8500	wh2_tower_lzd_solar_engine_beam	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+skv_wall_blocker	fort_wall	skv_wall_blocker	rock	20000			100	wall.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+skv_wall_gatehouse_60	gate	skv_wall_gatehouse_60	rock	25000		gate	100	gate.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+skv_wall_straight_20	fort_wall	skv_wall_straight_20	rock	20000		fort_wall	100	wall.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+skv_wall_tower	fort_tower	skv_wall_tower	rock	6500	wh2_tower_skv_sniper_bullet_1	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+skv_wall_tower_01	fort_tower	skv_wall_tower	rock	7500	wh2_tower_skv_sniper_bullet_2	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+skv_wall_tower_02	fort_tower	skv_wall_tower	rock	8000	wh2_tower_skv_warp_lightning	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+skv_wall_tower_03	fort_tower	skv_wall_tower	rock	8500	wh2_tower_skv_doomrocket	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	false
+tmb_wall_gatehouse_60	gate	tmb_wall_gatehouse_60	rock	25000		gate	100	gate.tga	true	0	true		false	false	1.0000	false	rock	false	true
+tmb_wall_straight_20	fort_wall	tmb_wall_straight_20	rock	20000		fort_wall	100	wall.tga	true	0	true		false	false	1.0000	false	rock	false	true
+tmb_wall_tower	fort_tower	tmb_wall_tower	rock	6500	wh2_dlc09_tower_tmb_bolt_1	fort_tower	100	tower.tga	true	0	true		false	false	1.0000	false	wooden_floor	false	true
+tmb_wall_tower_01	fort_tower	tmb_wall_tower	rock	7500	wh2_dlc09_tower_tmb_bolt_2	fort_tower	100	tower.tga	true	0	true		false	false	1.0000	false	wooden_floor	false	true
+tmb_wall_tower_02	fort_tower	tmb_wall_tower	rock	8000	wh2_dlc09_tower_tmb_magic_missile_1	fort_tower	100	tower.tga	true	0	true		false	false	1.0000	false	wooden_floor	false	true
+tmb_wall_tower_03	fort_tower	tmb_wall_tower	rock	8500	wh2_dlc09_tower_tmb_magic_missile_2	fort_tower	100	tower.tga	true	0	true		false	false	1.0000	false	wooden_floor	false	true
+vmp_wall_gatehouse_60	gate	vmp_wall_gatehouse_60	rock	25000		gate	100	gate.tga	false	0	true		false	false	1.0000	false	rock	false	true
+vmp_wall_straight_20	fort_wall	vmp_wall_straight_20	rock	20000		fort_wall	100	wall.tga	false	0	true		false	false	1.0000	false	rock	false	true
+vmp_wall_tower	fort_tower	vmp_wall_tower	rock	6500	wh_tower_vmp_bones	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	true
+vmp_wall_tower_01	fort_tower	vmp_wall_tower	rock	7500	wh_tower_vmp_bones_improved	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	true
+vmp_wall_tower_02	fort_tower	vmp_wall_tower	rock	8000	wh_tower_vmp_caged_bats	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	true
+vmp_wall_tower_03	fort_tower	vmp_wall_tower	rock	8500	wh_tower_vmp_corpse_ball	fort_tower	100	tower.tga	false	0	true		false	false	1.0000	false	wooden_floor	false	true
