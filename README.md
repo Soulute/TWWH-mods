@@ -13,4 +13,4 @@ It is divided into 4 sections:
 
 * **[more_content](https://github.com/Soulute/TWWH-mods/tree/main/more_content)** for other content mods, including Pirates of the Seas and OMFG THE ZOMBIES!!!
 
-These mods are saved as packfiles (.pack) which store db tables, textures, and scripts. To view the packfiles, I recommend using Frodo's [Rusted File Pack Manager](https://github.com/Frodo45127/rpfm). For my mods that use scripts, I've also extracted their scripts into the repo.
+These mods are saved as all-in-one packfiles (.pack) which store db tables, textures, and scripts. To view the packfiles, I recommend using Frodo's [Rusted File Pack Manager](https://github.com/Frodo45127/rpfm). For my mods that use scripts, I've also extracted their scripts into the repo.
