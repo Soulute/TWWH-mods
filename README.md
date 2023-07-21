@@ -1,5 +1,4 @@
 # TWWH-mods
-Mods for Total War: Warhammer game series.
 
 Welcome to my TWWH-mods github! It's a repository for my mods for the Total War: Warhammer videogame series.
 
