@@ -1,0 +1,5 @@
+key	agent_key	campaign_key	faction_key	subculture	for_army	for_navy	agent_subtype_key
+#character_skill_node_sets_tables;2;db/character_skill_node_sets_tables/pierce_lthelis_elves							
+wh2_main_skill_node_set_def_lilaeth	general				false	false	wh2_main_def_cha_lilaeth
+wh2_main_skill_node_set_hef_aurelion	general				false	false	wh2_main_hef_cha_aurelion
+wh2_main_skill_node_set_wef_draya	general				false	false	wh2_main_wef_cha_draya

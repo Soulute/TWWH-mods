@@ -1,0 +1,7 @@
+id	art_set_id	level	age	portrait	season	uniform	card	info	sea_uniform	navy_uniform	land_animation	sea_animation	navy_animation	religion	land_animation_vfx_filter	sea_animation_vfx_filter	navy_animation_vfx_filter
+#campaign_character_arts_tables;7;db/campaign_character_arts_tables/pierce_lthelis_elves																	
+1201181101	wh2_main_def_kouran_darkhand_art_set	0	0		none	uniform_def_cha_kouran_darkhand			wh2_main_campaign_def_ship_agent	wh2_main_campaign_def_ship_agent	cam_hero_hu1d_elf_halberd	cam_light_ship_05	cam_light_ship_05		0	0	0
+1201181102	wh2_main_def_lilaeth_art_set	0	0		none	uniform_def_cha_lilaeth			wh2_main_campaign_def_ship_army	wh2_main_campaign_def_ship_army	cam_hu1b_vampire_sword	cam_light_ship_05	cam_light_ship_05		0	0	0
+1201181103	wh2_main_hef_aurelion_art_set	0	0		none	wh2_main_uniform_hef_aurelion			wh2_main_campaign_hef_ship_transport	wh2_main_campaign_hef_ship_transport	cam_hu1b_vampire_sword	cam_medium_ship_05	cam_medium_ship_05		0	0	0
+1201181104	wh2_main_hef_lirazel_art_set	0	0		none	wh2_main_uniform_hef_lirazel			wh2_main_campaign_hef_ship_agent	wh2_main_campaign_hef_ship_agent	cam_hero_hu1b_hef_spear_and_bow	cam_medium_ship_05	cam_medium_ship_05		0	0	0
+1201181105	wh2_main_wef_draya_art_set	0	0		none	uniform_wef_cha_draya			wh_dlc05_campaign_wef_ship_transport	wh_dlc05_campaign_wef_ship_transport	cam_lord_hu1b_cst_aranessa_halberd	cam_transport_ship_03	cam_transport_ship_03		0	0	0

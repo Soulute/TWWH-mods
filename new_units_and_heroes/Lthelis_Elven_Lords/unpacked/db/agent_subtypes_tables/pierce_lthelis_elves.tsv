@@ -1,0 +1,7 @@
+key	auto_generate	is_caster	small_icon	associated_unit_override	audio_voiceover_actor_group	show_in_ui	cap	has_female_name	can_gain_xp	loyalty_is_applicable	contributes_to_agent_cap	recruitment_category	magic_lore	audio_vo_culture_override	spam_click_vo_enabled
+#agent_subtypes_tables;19;db/agent_subtypes_tables/pierce_lthelis_elves															
+wh2_main_def_kouran_darkhand	false	false		wh2_main_def_cha_kouran_darkhand	wh2_dlc14_vo_actor_Dark_Elf_Master	true	-1	false	true	true	true				false
+wh2_main_def_cha_lilaeth	false	true	ui/campaign ui/agents/wh2_main_lore_dark_magic.png	wh2_main_def_cha_lilaeth_0	wh2_dlc10_vo_actor_Dark_Elves_Supreme_Sorceress	true	-1	true	true	false	false	legendary_lords			false
+wh2_main_hef_cha_aurelion	false	true		wh2_main_hef_cha_aurelion_0	wh2_main_vo_actor_High_Elves_Mage	true	-1	true	true	true	true	legendary_lords			false
+wh2_main_hef_lirazel	false	false	ui/campaign ui/agents/wh2_dlc10_hef_handmaiden.png	wh2_main_hef_cha_lirazel_0	wh2_dlc10_vo_actor_High_Elves_Handmaiden_of_the_Everqueen	true	-1	true	true	true	true				false
+wh2_main_wef_cha_draya	false	false		wh2_main_wef_cha_draya_0	wh_dlc05_vo_actor_Wood_Elves_Female_Glade_Lord	true	-1	false	true	true	false	legendary_lords			false

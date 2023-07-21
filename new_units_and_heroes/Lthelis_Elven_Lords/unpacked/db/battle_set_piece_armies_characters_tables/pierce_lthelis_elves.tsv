@@ -1,0 +1,7 @@
+character_name	character_level	forename	magic_lore	num_men	surname	unit_type	agent_type	agent_subtype	portrait	character_model	skillset	male
+#battle_set_piece_armies_characters_tables;7;db/battle_set_piece_armies_characters_tables/pierce_lthelis_elves												
+wh2_main_def_kouran_darkhand	1	1201181101		100	1201181102	wh2_main_def_cha_kouran_darkhand	champion	wh2_main_def_kouran_darkhand	ui/portraits/portholes/wh2_main_def_dark_elves/def_cha_kouran_darkhand.png	1201181101		false
+wh2_main_def_cha_lilaeth	1	1201181103		100	1201181104	wh2_main_def_cha_lilaeth_0	general	wh2_main_def_cha_lilaeth	ui/portraits/portholes/wh2_main_def_dark_elves/wh2_def_cha_lilaeth.png	1201181102		false
+wh2_main_hef_aurelion	1	1201181105		100	1201181106	wh2_main_hef_cha_aurelion_0	general	wh2_main_hef_cha_aurelion	UI/Portraits/Portholes/wh2_main_hef_high_elves/hef_aurelion.png	1201181103		false
+wh2_main_hef_lirazel	1	1201181107		100	1201181108	wh2_main_hef_cha_lirazel_0	champion	wh2_main_hef_lirazel	ui/portraits/portholes/wh2_main_hef_high_elves/hef_lirazel.png	1201181104		false
+wh2_main_hef_draya	1	1201181109		100	1201181110	wh2_main_wef_cha_draya_0	general	wh2_main_wef_cha_draya	ui/portraits/portholes/wh_dlc05_wef_wood_elves/wh2_wef_cha_draya.png	1201181105		false

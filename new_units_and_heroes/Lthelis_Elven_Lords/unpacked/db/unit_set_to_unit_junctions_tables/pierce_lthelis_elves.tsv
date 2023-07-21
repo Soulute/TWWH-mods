@@ -1,0 +1,26 @@
+unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
+#unit_set_to_unit_junctions_tables;0;db/unit_set_to_unit_junctions_tables/pierce_lthelis_elves					
+			wh2_main_def_cha_kouran_darkhand	def_characters	false
+			wh2_main_def_cha_lilaeth_0	def_characters	false
+			wh2_main_def_cha_lilaeth_1	def_characters	false
+			wh2_dlc10_def_cha_sorceress_beasts_0	def_cha_sorceress	false
+			wh2_dlc10_def_cha_sorceress_beasts_1	def_cha_sorceress	false
+			wh2_dlc10_def_cha_sorceress_beasts_2	def_cha_sorceress	false
+			wh2_dlc10_def_cha_sorceress_beasts_3	def_cha_sorceress	false
+			wh2_dlc10_def_cha_sorceress_death_0	def_cha_sorceress	false
+			wh2_dlc10_def_cha_sorceress_death_1	def_cha_sorceress	false
+			wh2_dlc10_def_cha_sorceress_death_2	def_cha_sorceress	false
+			wh2_dlc10_def_cha_sorceress_death_3	def_cha_sorceress	false
+			wh2_main_def_cha_sorceress_dark_0	def_cha_sorceress	false
+			wh2_main_def_cha_sorceress_dark_1	def_cha_sorceress	false
+			wh2_main_def_cha_sorceress_dark_2	def_cha_sorceress	false
+			wh2_main_def_cha_sorceress_dark_3	def_cha_sorceress	false
+			wh2_main_def_cha_sorceress_fire_0	def_cha_sorceress	false
+			wh2_main_def_cha_sorceress_fire_1	def_cha_sorceress	false
+			wh2_main_def_cha_sorceress_fire_2	def_cha_sorceress	false
+			wh2_main_def_cha_sorceress_fire_3	def_cha_sorceress	false
+			wh2_main_def_cha_sorceress_shadow_0	def_cha_sorceress	false
+			wh2_main_def_cha_sorceress_shadow_1	def_cha_sorceress	false
+			wh2_main_def_cha_sorceress_shadow_2	def_cha_sorceress	false
+			wh2_main_def_cha_sorceress_shadow_3	def_cha_sorceress	false
+			wh2_main_wef_cha_draya_0	wef_dlc05_wood_elf_elf_units	false

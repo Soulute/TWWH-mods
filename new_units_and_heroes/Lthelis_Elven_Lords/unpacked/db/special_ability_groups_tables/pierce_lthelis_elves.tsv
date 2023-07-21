@@ -1,0 +1,4 @@
+ability_group	icon_path	special_edition_mask	sort_order	is_naval	colour_r	colour_g	colour_b	button_name	sound_event	is_composite_group	show_lore_icon
+#special_ability_groups_tables;9;db/special_ability_groups_tables/pierce_lthelis_elves											
+wh2_main_lore_lilaeth	UI\Battle UI\ability_icons\wh2_main_lore_passive_combined.png	0	0	false	135	25	131	lore_dark_magic	Play_WH_UI_Ability_Click_Generic_Light	true	true
+wh2_main_lore_aurelion	UI\Battle UI\ability_icons\wh2_main_lore_passive_combined.png	0	14	false	0	207	246	lore_high_magic	Play_WH_UI_Ability_Click_Generic_Light	true	true

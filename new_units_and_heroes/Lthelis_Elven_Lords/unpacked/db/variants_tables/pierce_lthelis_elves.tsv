@@ -1,0 +1,8 @@
+variant_name	tech_folder	variant_filename	low_poly_filename	mount_scale	scale	scale_variation	super_low_poly_filename
+#variants_tables;6;db/variants_tables/pierce_lthelis_elves							
+def_cha_kouran_darkhand		def_cha_kouran_darkhand		1.0000	1.1000	0.0500	
+wh2_def_cha_lilaeth		def_cha_lilaeth		1.0000	1.1500	0.0000	
+wh2_main_def_inf_kharibdyss_corpses		def_inf_kharibdyss_corpses		1.0000	1.0000	0.0500	
+wh2_main_hef_cha_aurelion		hef_cha_aurelion		1.0000	1.1500	0.0500	
+wh2_main_hef_cha_lirazel		hef_cha_lirazel		1.0000	1.1000	0.0500	
+wh2_wef_cha_draya		wef_cha_draya		1.0000	1.1500	0.0000	

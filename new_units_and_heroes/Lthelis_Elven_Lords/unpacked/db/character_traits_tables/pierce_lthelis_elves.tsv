@@ -1,0 +1,5 @@
+key	no_going_back_level	hidden	precedence	icon	ui_priority	pre_battle_speech_parameter
+#character_traits_tables;2;db/character_traits_tables/pierce_lthelis_elves						
+wh2_main_def_trait_name_dummy_kouran_darkhand	1	true	99	personality	0	
+wh2_main_hef_trait_name_dummy_lirazel	1	true	99	personality	0	
+wh2_main_trait_immortality_lord	1	true	99	high_elves	0	

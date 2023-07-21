@@ -1,0 +1,24 @@
+campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
+#character_skill_level_details_tables;0;db/character_skill_level_details_tables/pierce_lthelis_elves						
+		1	wh2_main_skill_kouran_darkhand_unique_01		x	9
+		1	wh2_main_skill_kouran_darkhand_unique_02		x	11
+		1	wh2_main_skill_kouran_darkhand_unique_03		x	13
+		1	wh2_main_skill_weapon_def_kouran_darkhand_crimson_death		x	9
+		1	wh2_main_skill_armour_def_kouran_darkhand_armour_of_grief		x	14
+		1	wh2_main_skill_def_mount_manticore		x	17
+		1	wh2_main_skill_weapon_def_lilaeth_staff_of_doom		x	15
+		1	wh2_main_skill_def_armour_kharibdyss_armour		x	11
+		1	wh2_main_skill_def_war_on_ulthuan		x	13
+		1	wh2_main_skill_def_lilaeth_dark_convents		x	9
+		1	wh2_main_skill_aurelion_unique_1_1		x	9
+		1	wh2_main_skill_aurelion_mount_barded_ithilmar_steed		x	6
+		1	wh2_main_skill_aurelion_mount_moon_dragon		x	15
+		1	wh2_main_skill_hef_aurelion_talisman_amulet_of_the_stars		x	7
+		1	wh2_main_skill_hef_aurelion_weapon_iceshard_staff		x	13
+		1	wh2_main_skill_weapon_hef_lirazel_star_bow_of_avelorn		x	7
+		1	wh2_main_skill_hef_lirazel_lieutenant_0		x	11
+		1	wh2_main_skill_hef_lirazel_unique_1		x	9
+		1	wh2_main_skill_wef_lord_unique_draya_spear_of_cythral		x	11
+		1	wh2_main_skill_wef_lord_unique_draya_nighthawk_armour		x	17
+		1	wh2_main_skill_wef_draya_unique_0		x	11
+		1	wh2_main_skill_wef_generic_swiftness_of_asrai		x	3

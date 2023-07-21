@@ -1,0 +1,7 @@
+art_set_id	agent_type	culture	subculture	faction	is_custom	is_male	agent_subtype	campaign_map_scale
+#campaign_character_art_sets_tables;6;db/campaign_character_art_sets_tables/pierce_lthelis_elves								
+wh2_main_def_kouran_darkhand_art_set	champion	wh2_main_def_dark_elves			false	true	wh2_main_def_kouran_darkhand	1.1000
+wh2_main_def_lilaeth_art_set	general	wh2_main_def_dark_elves			false	true	wh2_main_def_cha_lilaeth	1.1000
+wh2_main_hef_aurelion_art_set	general	wh2_main_hef_high_elves			false	true	wh2_main_hef_cha_aurelion	1.1000
+wh2_main_hef_lirazel_art_set	champion	wh2_main_hef_high_elves			false	true	wh2_main_hef_lirazel	1.1000
+wh2_main_wef_draya_art_set	general	wh_dlc05_wef_wood_elves			false	true	wh2_main_wef_cha_draya	1.1000

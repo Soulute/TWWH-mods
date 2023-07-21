@@ -1,0 +1,5 @@
+base_unit	mounted_unit	icon_name
+#units_custom_battle_mounts_tables;1;db/units_custom_battle_mounts_tables/pierce_lthelis_elves		
+wh2_main_def_cha_lilaeth_0	wh2_main_def_cha_lilaeth_1	ui/campaign ui/mounts/mount_manticore.png
+wh2_main_hef_cha_aurelion_0	wh2_main_hef_cha_aurelion_1	ui/campaign ui/mounts/mount_elven_steed.png
+wh2_main_hef_cha_aurelion_0	wh2_main_hef_cha_aurelion_2	ui/campaign ui/mounts/mount_moon_dragon.png
