@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/pierce_lthelis_elves_custom_battle_mounts__.loc		
+units_custom_battle_mounts_mount_name_wh2_main_def_cha_lilaeth_0wh2_main_def_cha_lilaeth_1	Manticore	true
+units_custom_battle_mounts_localised_description_wh2_main_def_cha_lilaeth_0wh2_main_def_cha_lilaeth_1	The roar of a Manticore is guaranteed to send mortals fleeing, for they know a creature of terror is abroad.	true
+units_custom_battle_mounts_mount_name_wh2_main_hef_cha_aurelion_0wh2_main_hef_cha_aurelion_1	Barded Ithilmar Steed	true
+units_custom_battle_mounts_localised_description_wh2_main_hef_cha_aurelion_0wh2_main_hef_cha_aurelion_1	An extremely light yet resilient material, Ithilmar gives the same protection as heavy steel, but without slowing down its wearer.	true
+units_custom_battle_mounts_mount_name_wh2_main_hef_cha_aurelion_0wh2_main_hef_cha_aurelion_2	Moon Dragon	true
+units_custom_battle_mounts_localised_description_wh2_main_hef_cha_aurelion_0wh2_main_hef_cha_aurelion_2	Those that surpass the Sun Dragons in might and enlightenment are known as Moon Dragons.	true

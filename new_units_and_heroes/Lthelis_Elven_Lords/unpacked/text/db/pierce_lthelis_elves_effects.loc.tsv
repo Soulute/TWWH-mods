@@ -1,0 +1,41 @@
+key	text	tooltip
+#Loc;1;text/db/pierce_lthelis_elves_effects.loc		
+effects_description_wh2_main_effect_unit_attribute_enable_unbreakable_blackguard	Attribute: Unbreakable for Black Guard of Naggarond units	true
+effects_description_wh2_main_effect_skill_upkeep_reduction_def_blackguard	Upkeep: %+n% for Black Guard of Naggarond units	true
+effects_description_wh2_main_effect_skill_unit_xp_levels_def_blackguard	Recruit rank: %+n for Black Guard of Naggarond units	true
+effects_description_wh2_main_effect_ability_enable_crimson_death	Ability: "Crimson Death"	true
+effects_description_wh2_main_effect_ability_passive_enable_armour_of_grief	Passive ability: "Armour of Grief"	true
+effects_description_wh2_main_effect_tech_melee_defence_increase_def_kharibdyss_hydra	Melee defence: %+n for Manticore, Kharibdyss and Hydra units	true
+effects_description_wh2_main_effect_skill_magic_resistance_def_kharibdyss_hydra	Magic resistance: %n%  for Manticore, Kharibdyss and Hydra units	true
+effects_description_wh2_main_effect_skill_upkeep_reduction_def_kharibdyss_hydra	Upkeep: %+n% for Manticore, Kharibdyss and Hydra units	true
+effects_description_wh2_main_effect_ability_enable_staff_of_doom	Ability: "Staff of Doom"	true
+effects_description_wh2_main_effect_lilaeth_skill_upkeep_cost_reduction_def_medusa	Upkeep: %+n% for Bloodwrack Medusae units	true
+effects_description_wh2_main_effect_lilaeth_skill_melee_attack_increase_def_medusa	Melee attack: %+n for Bloodwrack Medusae units	true
+effects_description_wh2_main_effect_skill_ward_save_def_sorceress	Ward Save: %n%  for Sorceress	true
+effects_description_wh2_main_effect_skill_def_miscast_for_sorceress	Miscast base chance: %+n% for Sorceress	true
+effects_description_wh2_main_lilaeth_effect_ability_disable_shroud_of_despair	Replaces: "Shroud of Despair"	true
+effects_description_wh2_main_lilaeth_skill_ability_enable_shroud_of_despair	Passive ability: "Shroud of Despair"	true
+effects_description_wh2_main_lilaeth_skill_ability_enable_empowered_shroud_of_despair	Passive ability: "Empowered Shroud of Despair"	true
+effects_description_wh2_main_effect_building_recuitment_lord_lilaeth	Enables recruitment of Supreme Sorceresses Lilaeth	true
+effects_description_wh2_main_spell_ability_enable_kharibdyss_armour	Ability: "Kharibdyss Armour"	true
+effects_description_wh2_main_effect_lilaeth_skill_unit_stat_fatigue_resistance_medusa	Vigour loss reduction: %+n% for Bloodwrack Medusae units	true
+effects_description_wh2_main_effect_magic_death_cooldown_steal_life	Cooldown: %+n% to "Steal Life"	true
+effects_description_wh2_main_effect_magic_death_enable_steal_life	Ability: "Steal Life"	true
+effects_description_wh2_main_effect_magic_death_reduce_wom_cost_steal_life	Winds of Magic cost: %n for "Steal Life"	true
+effects_description_wh2_main_effect_magic_heaven_cooldown_lightning_storm	Cooldown: %+n% to "Lightning Storm"	true
+effects_description_wh2_main_effect_magic_heaven_enable_lightning_storm	Ability: "Lightning Storm"	true
+effects_description_wh2_main_effect_magic_heaven_reduce_wom_cost_lightning_storm	Winds of Magic cost: %n for "Lightning Storm"	true
+effects_description_wh2_main_effect_magic_heaven_miscast_reduction_lightning_storm	Miscast base chance: %+n% for "Lightning Storm"	true
+effects_description_wh2_main_effect_ability_disable_passive_protection_of_saphery	Replaces: "Protection of Saphery"	true
+effects_description_wh2_main_skill_ability_passive_protection_of_saphery	Passive ability: "Protection of Saphery"	true
+effects_description_wh2_main_skill_ability_passive_empowered_protection_of_saphery	Passive ability: "Empowered Protection of Saphery"	true
+effects_description_wh2_main_effect_character_ability_shield_of_hoeth	Ability: "Shield of Hoeth"	true
+effects_description_wh2_main_effect_trait_upkeep_reduction_hef_swordmasters_loremaster	Upkeep: %+n% for Loremasters of Hoeth and Swordmasters of Hoeth units	true
+effects_description_wh2_main_effect_skill_unit_xp_levels_hef_swordmasters	Recruit rank: %+n for Swordmasters of Hoeth units	true
+effects_description_wh2_main_effect_ability_enable_aurelion_iceshard_staff	Ability: "Iceshard Staff"	true
+effects_description_wh2_main_effect_unit_cap_everqueens_court_guards_ror_0	Unit cap: %+n for Everqueen's Court Guards	true
+effects_description_wh2_main_effect_ability_enable_star_bow_of_avelorn	Ability: "Star Bow of Averlorn"	true
+effects_description_wh2_main_effect_tech_upkeep_cost_reduction_hef_handmaiden_sisters	Upkeep: %+n% for Handmaiden of the Everqueen, Sisters of Avelorn and Everqueen's Court Guards units	true
+effects_description_wh2_main_effect_ability_enable_spear_of_cythral	Ability: "Spear of Cythral"	true
+effects_description_wh2_main_effect_tech_upkeep_reduction_wef_wildwood	Upkeep: %+n% for Wildwood Rangers units	true
+effects_description_wh2_main_effect_tech_melee_damage_large_units_wildwood	Bonus vs. Large: %+n for Wildwood Rangers units	true

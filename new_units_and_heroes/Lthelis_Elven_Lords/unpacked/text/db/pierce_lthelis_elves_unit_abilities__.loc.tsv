@@ -1,0 +1,32 @@
+key	text	tooltip
+#Loc;1;text/db/pierce_lthelis_elves_unit_abilities__.loc		
+unit_abilities_tooltip_text_wh2_main_weapon_abilities_crimson_death	A huge halberd once carried by Dark Lord Khalak of Ghrond, the first Captain of the Black Guard. Each captain since has pried it out of his predecessor's dead hands.	true
+unit_abilities_onscreen_name_wh2_main_weapon_abilities_crimson_death	Crimson Death	true
+unit_abilities_tooltip_text_wh2_main_armour_passive_armour_of_grief	A magic armour first worn by Arnaetbron, a veteran of the sundering. Those who wish to attack the wearer must endure a shock of paralysing pain.	true
+unit_abilities_onscreen_name_wh2_main_armour_passive_armour_of_grief	Armour of Grief	true
+unit_abilities_tooltip_text_wh2_main_spell_dark_magic_staff_of_doom	Staff of Doom is a talisman of one of the six High Mistresses of the Covenant of Sorceresses.	true
+unit_abilities_onscreen_name_wh2_main_spell_dark_magic_staff_of_doom	Staff of Doom	true
+unit_abilities_tooltip_text_wh2_main_lord_passive_shroud_of_despair	At the caster’s command, light is driven from the battlefield and numbing darkness rushes to fill the void.	true
+unit_abilities_onscreen_name_wh2_main_lord_passive_shroud_of_despair	Shroud of Despair	true
+unit_abilities_tooltip_text_wh2_main_lord_passive_empowered_shroud_of_despair	At the caster’s command, light is driven from the battlefield and numbing darkness rushes to fill the void.	true
+unit_abilities_onscreen_name_wh2_main_lord_passive_empowered_shroud_of_despair	Empowered Shroud of Despair	true
+unit_abilities_tooltip_text_wh2_main_spell_kharibdyss_armour	Made from the corpse of a dead Kharibdyss and infused with dark magic that is has the power summon forth those slain by the Kharibdyss while it was alive.	true
+unit_abilities_onscreen_name_wh2_main_spell_kharibdyss_armour	Kharibdyss Armour	true
+unit_abilities_tooltip_text_wh2_main_spell_death_magic_steal_life	Sucking the life essence of a foe and use it to heal the caster. Steal Life has no effect on the Undead.	true
+unit_abilities_onscreen_name_wh2_main_spell_death_magic_steal_life	Steal Life	true
+unit_abilities_tooltip_text_wh2_main_lord_passive_protection_of_saphery	Archmage grants a blessing to those that fight with her.	true
+unit_abilities_onscreen_name_wh2_main_lord_passive_protection_of_saphery	Protection of Saphery	true
+unit_abilities_tooltip_text_wh2_main_lord_passive_empowered_protection_of_saphery	Archmages grants greater blessing of protection spell to all those that offer to protect her.	true
+unit_abilities_onscreen_name_wh2_main_lord_passive_empowered_protection_of_saphery	Greater Protection of Saphery	true
+unit_abilities_onscreen_name_wh2_main_character_abilities_shield_of_hoeth	Shield of Hoeth	true
+unit_abilities_tooltip_text_wh2_main_character_abilities_shield_of_hoeth	Never underestimate the power of a Saphery mage's as they can wield magic mere mortal can only dream of.	true
+unit_abilities_tooltip_text_wh2_main_aurelion_spell_high_magic_soul_quench	Archmage grants a blessing to those that fight with her.	true
+unit_abilities_onscreen_name_wh2_main_aurelion_spell_high_magic_soul_quench	Protection of Saphery	true
+unit_abilities_onscreen_name_wh2_main_spell_heaven_lightning_storm	Lightning Storm	false
+unit_abilities_tooltip_text_wh2_main_spell_heaven_lightning_storm	Summons a storm of lightning anywhere within a wide area. This is an Aethyric storm summoned from the Realm of Chaos and may appear anywhere, from the deepest sewer to the wildest heath.	false
+unit_abilities_onscreen_name_wh2_main_weapon_abilities_iceshard_staff	Iceshard Staff	false
+unit_abilities_tooltip_text_wh2_main_weapon_abilities_iceshard_staff	Razor-sharp shards of ice hurl from the chill skies to blind and dishearten the foe.	false
+unit_abilities_tooltip_text_wh2_main_weapon_abilities_star_bow_of_avelorn	A powerful enchanted bow only given to the everqueens chief handmaiden to command it power.	false
+unit_abilities_onscreen_name_wh2_main_weapon_abilities_star_bow_of_avelorn	Star Bow of Averlorn	false
+unit_abilities_onscreen_name_wh2_main_weapon_abilities_spear_of_cythral	Spear of Cythral	false
+unit_abilities_tooltip_text_wh2_main_weapon_abilities_spear_of_cythral	A gift from Daith for the Lord of Cythral.	false

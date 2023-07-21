@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/db/pierce_lthelis_elves_unit_abilities_additional_ui_effects.loc		
+unit_abilities_additional_ui_effects_localised_text_wh2_all_summon_kharibdyss_corpses	[[col:green]][[img:icon_arrow_up]][[/img]] Summons a Kharibdyss Corpses [[/col]]	true
+unit_abilities_additional_ui_effects_localised_text_wh2_main_spell_death_magic_steal_life_miscast	[[col:green]][[img:icon_arrow_up]][[/img]] Absorbs hitpoints from enemies[[/col]]	true
